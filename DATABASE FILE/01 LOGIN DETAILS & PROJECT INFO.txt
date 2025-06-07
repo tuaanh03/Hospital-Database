@@ -1,0 +1,28 @@
+
+**Database Name: hospital**
+
+
+
+
+
+**Doctor Login Details**
+
+ID      : D123
+Password: 123
+
+ID      : D234
+Password: 123
+
+ID      : D345
+Password: 123
+
+ID      : D456
+Password: 123
+
+ID      : D567
+Password: 123
+
+
+
+
+
